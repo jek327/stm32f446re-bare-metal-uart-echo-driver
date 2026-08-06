@@ -303,7 +303,7 @@ screen /dev/cu.usbmodem143303 115200
 
 ---
 
-![Demo]()
+![Demo](uart_rx.gif)
 
 ---
 
